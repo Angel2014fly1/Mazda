@@ -210,7 +210,7 @@ class MazdaModel:
                                     Equal_info_between_of_the_cirlce_of_the_file
                                     ei=0
                                     
-                                    Mazda1 = Equal_info_between_of_the_cirlce_of_the_file.find("1111100011111001")
+                                    Mazda1 = Equal_info_between_of_the_cirlce_of_the_file.find("111110001111100110010110")
                                     print(Mazda1)
                                     x2 = time()
                                     x3=x2-x
